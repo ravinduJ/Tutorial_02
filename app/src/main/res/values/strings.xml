@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">IntentsProj</string>
+    <string name="innum1">Number 1</string>
+    <string name="num1">Number 01</string>
+    <string name="num2">Number 02</string>
 </resources>
